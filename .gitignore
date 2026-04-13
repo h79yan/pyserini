@@ -19,6 +19,3 @@ runs/
 
 # logs should also be ignored
 logs/
-/pyserini-env
-/encode
-/index
